@@ -12,6 +12,7 @@ This program has two header files.
 <dl>This is used to generate xml document to file. It will get contact details from contact.h file and put it in xml file format </dl>
 <li>readxml.h</li>
 <dl>Used to read the xml document we generated so far.</dl>
+</ul>
 
 <h3>Note</h3>
 <p>This program is written to beginners to show how to write and read xml using DOM in Qt C++. it doesn't consider 
